@@ -133,8 +133,6 @@ public class GameManagerController : MonoBehaviour
 2. Open the project in Unity.
 3. Play the game in the Unity Editor or build it for your target platform.
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ## 👤 Author
 **Anupam Pandey**  
