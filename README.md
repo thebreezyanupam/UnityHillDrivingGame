@@ -127,9 +127,6 @@ public class GameManagerController : MonoBehaviour
 ## 📦 Installation & Usage
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/HillDriverGame.git
-   ```
 2. Open the project in Unity.
 3. Play the game in the Unity Editor or build it for your target platform.
 
